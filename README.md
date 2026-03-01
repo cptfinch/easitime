@@ -44,11 +44,10 @@ Timebanking platforms are stuck in 2010. No AI matching, no modern mobile UX, no
 │       ├── models/          # Database schema (PostgreSQL)
 │       ├── matching/        # AI-powered skill-to-need matching engine
 │       └── ledger/          # Double-entry credit/debit ledger
-├── simulations/
-│   ├── network-effects/     # Critical mass modelling
-│   ├── sroi/                # Social Return on Investment calculator
-│   └── sustainability/      # Financial sustainability scenarios
-└── references/              # Research and background material
+└── simulations/
+    ├── network-effects/     # Critical mass modelling
+    ├── sroi/                # Social Return on Investment calculator
+    └── sustainability/      # Financial sustainability scenarios
 ```
 
 ## Use Cases
