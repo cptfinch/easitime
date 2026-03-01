@@ -62,7 +62,7 @@ Timebanking platforms are stuck in 2010. No AI matching, no modern mobile UX, no
 
 ## Background
 
-This project evolved from a [2017 feasibility study](https://github.com/cptfinch/Easytime-timebank) for a timebank in Easington Lane, County Durham. The original study found community support but the project didn't proceed beyond feasibility — primarily due to the unsolved coordinator funding sustainability problem that affects all timebanks. This repo reimagines the concept as a scalable technology platform.
+This project evolved from a [2017 feasibility study](https://github.com/cptfinch/timebank-feasibility-study) for a timebank in Easington Lane, County Durham. The original study found community support but the project didn't proceed beyond feasibility — primarily due to the unsolved coordinator funding sustainability problem that affects all timebanks. This repo reimagines the concept as a scalable technology platform.
 
 ## License
 
